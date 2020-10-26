@@ -14,6 +14,9 @@
 
 ## Luuk
 
+    Ombouwen naar een react app
+    
+    
     Homepage pagina werkend maken en de nieuwsbrief met mailchimp
 - ![Homepage](http://bootstrapmedia.website/images/home.png)
   ![Homepagenews](http://bootstrapmedia.website/images/homenews.png)
