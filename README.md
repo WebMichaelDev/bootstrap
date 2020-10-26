@@ -17,7 +17,8 @@
     Ombouwen naar een react app
     
     
-    Homepage pagina werkend maken en de nieuwsbrief met mailchimp
+    Homepage pagina werkend maken het moet een offerte aanvraag stukje worden naam email wat voor een platform en dan wat text invoer
+    en de nieuwsbrief met mailchimp
 - ![Homepage](http://bootstrapmedia.website/images/home.png)
   ![Homepagenews](http://bootstrapmedia.website/images/homenews.png)
 
