@@ -3,7 +3,7 @@
 
 
 
-![Product Presentation Image]
+![Product Presentation Image](https://bootstrapmedia.website/images/contactpage.png)
 
 **[Material Kit PRO React](https://demos.creative-tim.com/material-kit-pro-react/#/components)** is a beautiful resource built for Material Design. It was made over the powerful Material-UI. We used and have redesigned all components to make it look flat, minimalist and easy to use. We are proud of this new Material-UI skin and the possibilities for customisation.
 
