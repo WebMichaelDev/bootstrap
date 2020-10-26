@@ -1,15 +1,14 @@
 # [Bootstrapmedia](https://bootstrapmedia.website/images/contactpage.png)
 
 * [Luuk](#luuk)
-* [Quick Start](#quick-start)
+
 * [Documentation](#documentation)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
 * [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
 * [Technical Support or Questions](#technical-support-or-questions)
 * [Licensing](#licensing)
-* [Useful Links](#useful-links)
+
 
 
 
@@ -44,17 +43,12 @@ er moet kwa taal nederlands en engels in (misschien boven aan ook iets van een s
 
 
 
-## Quick start
-
-- Buy from [Creative Tim](https://www.creative-tim.com/product/material-kit-pro-react)
-
-
 ## Documentation
-The documentation for the Material Kit PRO React is hosted at our [website](https://demos.creative-tim.com/material-kit-pro-react/#/documentation/tutorial).
+(https://www.notion.so/Product-Wiki-fe02faa7a9a248ba919161b562ee2fff)
 
 
 ## File Structure
-Within the download you'll find the following directories and files:
+Moetenw e nog uitbouwen maar kan pas als het een react app is
 
 ```
 Bootstrapmedia
