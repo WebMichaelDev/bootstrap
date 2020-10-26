@@ -14,25 +14,28 @@
 
 ## Luuk
 
-    Homepage pagina werkend maken en de nieuwsbrief met mailchimp
-- [Homepage](http://bootstrapmedia.website/images/home.png)
-            (http://bootstrapmedia.website/images/homenews.png)
+    Ombouwen naar een react app
+    
+    
+    Homepage pagina werkend maken het moet een offerte aanvraag stukje worden naam email wat voor een platform en dan wat text invoer en get started word dan         submit 
+    en de nieuwsbrief met mailchimp
+- ![Homepage](http://bootstrapmedia.website/images/home.png)
+  ![Homepagenews](http://bootstrapmedia.website/images/homenews.png)
 
     Contact pagina werkend maken
-- [Contactpage](http://bootstrapmedia.website/images/contactpage.png)
+- ![Contactpage](http://bootstrapmedia.website/images/contactpage.png)
 
     Offertepagina werkend maken
-- [Offertepage](http://bootstrapmedia.website/images/offerte.png)
+- ![Offertepage](http://bootstrapmedia.website/images/offerte.png)
 
     Faq pagina omtoveren naar werkende zoekfuntie (ik denk dat er dan mongodb achter zou moeten)
-- [Faq](http://bootstrapmedia.website/images/faq.png)
+- ![Faq](http://bootstrapmedia.website/images/faq.png)
 
     Coming-soon pagina werkende nieuwsbrief module
-- [coming-soon](http://bootstrapmedia.website/images/compingsoon-news.jpg)
+- ![coming-soon](http://bootstrapmedia.website/images/compingsoon-news.jpg)
 
     Wizard ombouwen (vragenlijst voor webdesign (onderaan de pagina links staat wizard)
-- [wizard](https://themes.getbootstrap.com/preview/?theme_id=7340&show_new=)
-
+- [Wizard](https://themes.getbootstrap.com/preview/?theme_id=7340&show_new=)
 
 Vertaling inbouwen in de footer staat als een html/css stukje 
 er moet kwa taal nederlands en engels in (misschien boven aan ook iets van een selector voor talen)
@@ -48,7 +51,7 @@ er moet kwa taal nederlands en engels in (misschien boven aan ook iets van een s
 
 
 ## File Structure
-Moetenw e nog uitbouwen maar kan pas als het een react app is
+Moeten we nog uitbouwen maar kan pas als het een react app is
 
 ```
 Bootstrapmedia
