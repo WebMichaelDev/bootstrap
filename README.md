@@ -14,6 +14,7 @@
 
 
 ## Luuk
+
     Homepage pagina werkend maken en de nieuwsbrief met mailchimp
 - [Homepage](http://bootstrapmedia.website/images/home.png)
             (http://bootstrapmedia.website/images/homenews.png)
@@ -27,42 +28,20 @@
     Faq pagina omtoveren naar werkende zoekfuntie (ik denk dat er dan mongodb achter zou moeten)
 - [Faq](http://bootstrapmedia.website/images/faq.png)
 
+    Coming-soon pagina werkende nieuwsbrief module
+- [coming-soon](http://bootstrapmedia.website/images/compingsoon-news.jpg)
+
+    Wizard ombouwen (vragenlijst voor webdesign (onderaan de pagina links staat wizard)
+- [wizard](https://themes.getbootstrap.com/preview/?theme_id=7340&show_new=)
+
+
+Vertaling inbouwen in de footer staat als een html/css stukje 
+er moet kwa taal nederlands en engels in (misschien boven aan ook iets van een selector voor talen)
 
     hier hebben we het gekocht mocht je meer info nodig hebben
 - [Extra info](https://themes.getbootstrap.com/preview/?theme_id=7340&show_new=)
 
 
-![Product Presentation Image]
-
-
-
-## Table of Contents
-
-
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-
-
-
-## Demo
-
-- [Index Page](https://demos.creative-tim.com/material-kit-pro-react/#/components)
-- [Buttons Section](https://demos.creative-tim.com/material-kit-pro-react/#/components#buttons)
-- [Navigation Section](https://demos.creative-tim.com/material-kit-pro-react/#/components#navigation)
-- [Notifications Section](https://demos.creative-tim.com/material-kit-pro-react/#/components#notifications)
-- [User profile page](https://demos.creative-tim.com/material-kit-pro-react/#/profile-page)
-- [Landing page](https://demos.creative-tim.com/material-kit-pro-react/#/landing-page)
-
-[View More](https://demos.creative-tim.com/material-kit-pro-react/#/components).
 
 
 ## Quick start
