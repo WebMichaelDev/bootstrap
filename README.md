@@ -1,15 +1,39 @@
 # [Bootstrapmedia](https://bootstrapmedia.website/images/contactpage.png)
 
+* [Luuk](#luuk)
+* [Quick Start](#quick-start)
+* [Documentation](#documentation)
+* [File Structure](#file-structure)
+* [Browser Support](#browser-support)
+* [Resources](#resources)
+* [Reporting Issues](#reporting-issues)
+* [Technical Support or Questions](#technical-support-or-questions)
+* [Licensing](#licensing)
+* [Useful Links](#useful-links)
 
 
 
-![Product Presentation Image]<img src="http://bootstrapmedia.website/images/contactpage.png"<img
+## Luuk
+    Homepage pagina werkend maken en de nieuwsbrief met mailchimp
+- [Homepage](http://bootstrapmedia.website/images/home.png)
+            (http://bootstrapmedia.website/images/homenews.png)
 
-**[Material Kit PRO React](https://demos.creative-tim.com/material-kit-pro-react/#/components)** is a beautiful resource built for Material Design. It was made over the powerful Material-UI. We used and have redesigned all components to make it look flat, minimalist and easy to use. We are proud of this new Material-UI skin and the possibilities for customisation.
+    Contact pagina werkend maken
+- [Contactpage](http://bootstrapmedia.website/images/contactpage.png)
 
-Using it is very simple and it will enable you to refresh you classic looking application. To get the desired effect you will also need to integrate ReactJS plugins that take a little bit more effort. In the end the result will be worth it.
+    Offertepagina werkend maken
+- [Offertepage](http://bootstrapmedia.website/images/offerte.png)
 
-**[Material Kit PRO React](https://demos.creative-tim.com/material-kit-pro-react/#/components)** uses a framework built by our friend Olivier and his team - [Material-UI](https://material-ui.com/) and was created starting with [create-react-app](https://github.com/facebook/create-react-app), who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
+    Faq pagina omtoveren naar werkende zoekfuntie (ik denk dat er dan mongodb achter zou moeten)
+- [Faq](http://bootstrapmedia.website/images/faq.png)
+
+
+    hier hebben we het gekocht mocht je meer info nodig hebben
+- [Extra info](https://themes.getbootstrap.com/preview/?theme_id=7340&show_new=)
+
+
+![Product Presentation Image]
+
 
 
 ## Table of Contents
