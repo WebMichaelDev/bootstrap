@@ -15,7 +15,7 @@
 ## Luuk
 
     Homepage pagina werkend maken en de nieuwsbrief met mailchimp
-- [Homepage](http://bootstrapmedia.website/images/home.png)
+- ![Homepage](http://bootstrapmedia.website/images/home.png)
             (http://bootstrapmedia.website/images/homenews.png)
 
     Contact pagina werkend maken
