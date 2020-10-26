@@ -31,8 +31,7 @@
 - ![coming-soon](http://bootstrapmedia.website/images/compingsoon-news.jpg)
 
     Wizard ombouwen (vragenlijst voor webdesign (onderaan de pagina links staat wizard)
-- ![wizard](https://themes.getbootstrap.com/preview/?theme_id=7340&show_new=)
-
+- [Wizard](https://themes.getbootstrap.com/preview/?theme_id=7340&show_new=)
 
 Vertaling inbouwen in de footer staat als een html/css stukje 
 er moet kwa taal nederlands en engels in (misschien boven aan ook iets van een selector voor talen)
@@ -48,7 +47,7 @@ er moet kwa taal nederlands en engels in (misschien boven aan ook iets van een s
 
 
 ## File Structure
-Moetenw e nog uitbouwen maar kan pas als het een react app is
+Moeten we nog uitbouwen maar kan pas als het een react app is
 
 ```
 Bootstrapmedia
