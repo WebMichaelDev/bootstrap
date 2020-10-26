@@ -294,10 +294,3 @@ If you have questions or need help integrating the product please [contact us](h
 
 
 
-## Useful Links
-
-
-
-##### Social Media
-
-
